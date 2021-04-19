@@ -1,0 +1,37 @@
+namespace: prasant1998
+
+name: kubernetescluster
+
+version: 1.0.0
+
+readme: README.md
+
+authors:
+- Prasant Mahato <prasantmahato989@gmail.com>
+
+
+description: launching kubernetes cluster over AWS cloud 
+
+license:
+- GPL-2.0-or-later
+
+license_file: LICENSE
+
+tags: 
+- kubernetes 
+- k8s
+- kubernetescluster
+- cluster
+
+dependencies: {}
+
+repository: http://example.com/repository
+
+documentation: http://docs.example.com
+
+homepage: http://example.com
+
+issues: http://example.com/issue/tracker
+
+build_ignore: []
+
